@@ -18,12 +18,12 @@ opencv-python
 ```bash
   pip install opencv-python
 ```
-imutils
+Imutils
 
 ```bash
   pip install imutils
 ```
-requests
+Requests
 
 ```bash
   pip install requests
