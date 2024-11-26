@@ -1,6 +1,7 @@
 # Project Opencv Detect GUN
 Currently, there is crime and
 Bringing weapons into public places to increase safety is what we do. This project is Opencv Detect GUN Ours will be notified via LINE or if you want other channels, you can do it.
+
 <img src="https://github.com/user-attachments/assets/b27759de-7f47-4c53-a053-eae45307eb96" alt="Screenshot" width="500">
 
 ## The Purpose of this Project
